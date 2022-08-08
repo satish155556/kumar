@@ -4,4 +4,5 @@ h1{
     text-shadow: 2px 2px 2px greenyellow;
 }form{
     background-color: brown;
+    width: 300px;
 }
