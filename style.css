@@ -2,4 +2,6 @@ h1{
     font-size: 3rem;
     color: blueviolet;
     text-shadow: 2px 2px 2px greenyellow;
+}form{
+    background-color: brown;
 }
